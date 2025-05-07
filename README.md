@@ -1,19 +1,18 @@
 # Builder-Smasher
 
-_Basic information_
+## Basic information
 
 It uses deepseek(or gemma for image to text) to do english builder automatically
 
 
 
-
-_How to download the tool?_
+## How to download the tool?
 
 Go to the release page and click on 'Builder-Smasher.exe' to download the executable file
 
 
 
-_How to use it?_
+## How to use it?
 
 You need to have a hugging face token(for authentication) to use the AI
 
