@@ -1,7 +1,9 @@
 # Builder-Smasher
 It uses deepseek(or gemma for image to text) to do english builder automatically
 
-You need to have a hugging face token to use the AI
+You need to have a hugging face token(for authentication) to use the AI
+
+The use of AI consumes your tokens for inference usage(not the one for authentication mentioned before)
 
 If an error occurs, it may be either caused by you running out of tokens, or the AI answering the questions wrongly
 
