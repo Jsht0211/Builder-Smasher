@@ -34,6 +34,5 @@ The use of AI **consumes your tokens for inference usage**(not the one for authe
 
 If an error occurs, it may be either caused by you running out of tokens, or the AI answering the questions wrongly. Run the file again and enter your token. If the program says that it is an invalid token, that means you have used all of your tokens for inference usage. You can wait till next month when your token quota is reset, or just create a new account. If the program keeps going, that means the AI made mistakes. You can fill in your information again and wait for the tool to help you complete the exercises
 
-
-
-**Make Sure You have the 136.0.7103.93 version of Chrome**
+The most important thing:
+**Make Sure You have the 136.0.7103.93 version of Chrome**, or else the file won't be able to run
