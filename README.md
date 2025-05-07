@@ -28,7 +28,7 @@ After that, you can just be away from keyboard and wait for the exercises to be 
 
 ## Special reminders
 
-The AI may not be correct all the time. It will sometimes make a lot of mistakes. So the accuracy may be a little bit low, but the average accuracy is above 70%
+The AI may not be correct all the time. It will sometimes make a lot of mistakes. Therefore, the accuracy may be a little bit low, but the average accuracy is above 70%
 
 The use of AI **consumes your tokens for inference usage**(not the one for authentication mentioned before)
 
