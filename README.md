@@ -18,8 +18,11 @@ You need to have a hugging face token(for authentication) to use the AI
 (If you don't know how to get one, a tutorial is available in the executable file. Run it and follow the steps.)
 
 Once you've successfully entered your token, fill in the basic information such as:
+
 -the number of exercises you want to do,
+
 -whether or not to enable image to text, and
+
 -your username and password
 
 After that, you can just be away from keyboard and wait for the exercises to be completed
